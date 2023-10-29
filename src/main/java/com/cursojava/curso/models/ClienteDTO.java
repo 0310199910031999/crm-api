@@ -6,4 +6,6 @@ public class ClienteDTO {
 
     @JsonProperty
     private String nombre;
+    @JsonProperty
+    private int edad;
 }
